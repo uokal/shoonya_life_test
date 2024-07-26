@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+## Live Preview
+[Live Link](https://shoonya-life-test.vercel.app/)
 In the project directory, you can run:
 
 ### `npm start`
